@@ -1,0 +1,6 @@
+Use OpenWeatherMap Current Weather API. 
+OpenWeatherMap : https://openweathermap.org/api?utm_source=chatgpt.com
+To get weather by city or by coordinates.
+
+Use navigator.geolocation for getting user’s location (if permitted).
+Show relevant data: temperature, weather description, humidity, wind speed, icon, sunrise/sunset maybe.
